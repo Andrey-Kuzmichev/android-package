@@ -1,4 +1,5 @@
 -package:com.google.ar.core
+-package:com.google.ar.lens
 -package:com.google.android.partnersetup
 -package:com.google.android.printservice.recommendation
 -package:com.google.android.onetimeinitializer
@@ -9,11 +10,15 @@
 -package:com.google.android.googlequicksearchbox
 -package:com.google.android.youtube
 -package:com.google.android.apps.maps
+-package:com.google.android.apps.nbu.files
+-package:com.google.android.documentsui
 -package:com.google.android.apps.docs
 -package:com.google.android.apps.tachyon
 -package:com.google.android.apps.youtube.music
 -package:com.google.android.apps.googleassistant
 -package:com.google.android.gm
+-package:com.google.android.overlay.gmsconfig
+-package:com.google.android.overlay.gmsgsaconfig
 -package:com.google.android.gms
 -package:com.google.android.gms.location.history
 -package:com.google.android.gmsintegration
