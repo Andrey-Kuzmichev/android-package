@@ -22,7 +22,7 @@
 -package:com.coloros.backuprestore.remoteservice
 -package:com.coloros.bootreg
 -package:com.coloros.childrenspace
--package:com.coloros.compass2
+=package:com.coloros.compass2
 -package:com.coloros.encryption
 -package:com.coloros.floatassistant
 -package:com.coloros.focusmode
@@ -33,7 +33,7 @@
 -package:com.coloros.phonenoareainquire
 -package:com.coloros.sceneservice
 -package:com.coloros.smartdrive
--package:com.coloros.weather2
+=package:com.coloros.weather2
 -package:com.coloros.weather.service
 -package:com.coloros.widget.smallweather
 -package:com.coloros.wifibackuprestore
