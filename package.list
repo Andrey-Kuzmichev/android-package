@@ -33,6 +33,7 @@
 -package:com.coloros.phonenoareainquire
 -package:com.coloros.sceneservice
 -package:com.coloros.smartdrive
+-package:com.coloros.soundrecorder
 =package:com.coloros.weather2
 -package:com.coloros.weather.service
 -package:com.coloros.widget.smallweather
@@ -52,9 +53,7 @@
 -package:com.google.android.calendar
 -package:com.google.android.feedback
 -package:com.google.android.gm
-+package:com.google.android.gms
 -package:com.google.android.gms.location.history
-+package:com.google.android.gmsintegration
 -package:com.google.android.googlequicksearchbox
 -package:com.google.android.keep
 -package:com.google.android.marvin.talkback

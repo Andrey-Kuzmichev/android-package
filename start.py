@@ -7,7 +7,7 @@ def start():
             if len(str(line).split(':')) == 2:
                 package = str(line).split(':')[1].strip()
                 if str(line).startswith('-'):
-                    cmd = 'adb.exe shell pm uninstall --user 0  {}'.format(package)
+                    cmd = 'adb.exe shell pm uninstall --user 0 {}'.format(package)
                     out_data = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE).stdout.read().decode()
                     print('[Uninstalled] {}: {}'.format(package, out_data))
                 elif str(line).startswith('+'):
