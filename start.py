@@ -18,6 +18,10 @@ def start():
                     cmd = 'adb.exe shell pm disable-user --user 0 {}'.format(package)
                     out_data = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE).stdout.read().decode()
                     print('[Disabled] {}: {}'.format(package, out_data))
+                elif str(line).startswith('+='):
+                    cmd = 'adb.exe shell pm enable --user 0 {}'.format(package)
+                    out_data = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE).stdout.read().decode()
+                    print('[Enable] {}: {}'.format(package, out_data))
         file.close()
 
 
