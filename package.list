@@ -5,8 +5,6 @@
 -package:com.android.cellbroadcastreceiver
 -package:com.android.cellbroadcastreceiver.overlay.common
 -package:com.android.chrome
--package:com.android.mms
--package:com.android.mms.service
 -package:com.android.printspooler
 -package:com.android.providers.partnerbookmarks
 -package:com.android.sharedstoragebackup
