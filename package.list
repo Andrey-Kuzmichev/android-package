@@ -1,10 +1,11 @@
-=package:com.android.email
 -package:com.android.bips
 -package:com.android.bookmarkprovider
 -package:com.android.calllogbackup
 -package:com.android.cellbroadcastreceiver
 -package:com.android.cellbroadcastreceiver.overlay.common
+=package:com.android.email
 -package:com.android.chrome
+-package:com.coloros.onekeylockscreen
 -package:com.android.printspooler
 -package:com.android.providers.partnerbookmarks
 -package:com.android.sharedstoragebackup
@@ -48,7 +49,6 @@
 -package:com.google.android.apps.tachyon
 -package:com.google.android.apps.wellbeing
 -package:com.google.android.apps.youtube.music
--package:com.google.android.calendar
 -package:com.google.android.feedback
 -package:com.google.android.gm
 -package:com.google.android.gms.location.history
@@ -74,6 +74,7 @@
 -package:com.oppo.gmail.overlay
 -package:com.oppo.lfeh
 -package:com.oppo.logkit
+-package:com.oppo.logkitservice
 -package:com.oppo.mimosiso
 -package:com.oppo.nw
 -package:com.oppo.operationManual
@@ -85,6 +86,5 @@
 -package:com.qualcomm.qti.modemtestmode
 -package:com.qualcomm.qti.remoteSimlockAuth
 -package:com.qualcomm.uimremoteclient
--package:com.mediatek.omacp
 -package:com.nearme.statistics.rom
 -package:com.tencent.soter.soterserver
