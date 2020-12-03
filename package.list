@@ -16,7 +16,6 @@
 -package:com.coloros.activation.overlay.common
 -package:com.coloros.appmanager
 -package:com.coloros.assistantscreen
--package:com.coloros.athena
 -package:com.coloros.backuprestore
 -package:com.coloros.backuprestore.remoteservice
 -package:com.coloros.bootreg
