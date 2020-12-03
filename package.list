@@ -74,7 +74,6 @@
 -package:com.oppo.gmail.overlay
 -package:com.oppo.lfeh
 -package:com.oppo.logkit
--package:com.oppo.logkitservice
 -package:com.oppo.mimosiso
 -package:com.oppo.nw
 -package:com.oppo.operationManual
