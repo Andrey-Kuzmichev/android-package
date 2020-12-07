@@ -1,2 +1,2 @@
 # android-package
-adb tools package delete/install/disable for android
+adb tools package delete/install/disable/enable for android 
