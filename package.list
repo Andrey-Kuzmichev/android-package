@@ -3,7 +3,7 @@
 -package:com.android.calllogbackup
 -package:com.android.cellbroadcastreceiver
 -package:com.android.cellbroadcastreceiver.overlay.common
-=package:com.android.email
+-package:com.android.email
 # -package:com.android.chrome
 -package:com.coloros.onekeylockscreen
 -package:com.android.printspooler
@@ -38,7 +38,7 @@
 -package:com.coloros.sceneservice
 -package:com.coloros.smartdrive
 -package:com.coloros.soundrecorder
-=package:com.coloros.weather2
+-package:com.coloros.weather2
 -package:com.coloros.weather.service
 -package:com.coloros.widget.smallweather
 -package:com.coloros.wifibackuprestore
@@ -51,7 +51,6 @@
 -package:com.google.android.apps.docs
 -package:com.google.android.apps.maps
 -package:com.google.android.apps.photos
--package:com.google.android.apps.restore
 -package:com.google.android.apps.tachyon
 -package:com.google.android.apps.wellbeing
 -package:com.google.android.apps.youtube.music
@@ -129,7 +128,6 @@
 -package:com.oppo.market
 -package:com.coloros.wallet
 -package:com.qiyi.video
--package:com.coloros.video
 -package:com.coloros.videoeditor
 -package:com.nearme.browser
 -package:com.coloros.assistantscreen
@@ -149,3 +147,5 @@
 -package:com.coloros.accegamesdk
 -package:com.realmecomm.app
 -package:com.realme.link
+-package:com.minsvyaz.applist
+-package:com.realme.wellbeing
