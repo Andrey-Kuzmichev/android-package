@@ -4,13 +4,19 @@
 -package:com.android.cellbroadcastreceiver
 -package:com.android.cellbroadcastreceiver.overlay.common
 =package:com.android.email
--package:com.android.chrome
+# -package:com.android.chrome
 -package:com.coloros.onekeylockscreen
 -package:com.android.printspooler
 -package:com.android.providers.partnerbookmarks
 -package:com.android.sharedstoragebackup
 -package:com.android.statementservice
 -package:com.android.wallpaperbackup
+-package:com.android.browser
+-package:com.android.keychain
+-package:com.android.emergency
+-package:com.android.dreams.phototable
+-package:com.android.egg
+-package:com.android.quicksearchbox
 -package:com.caf.fmradio
 -package:com.coloros.activation
 -package:com.coloros.activation.overlay.common
@@ -41,6 +47,7 @@
 -package:com.facebook.appmanager
 -package:com.facebook.services
 -package:com.facebook.system
+-package:com.facebook.katana
 -package:com.google.android.apps.docs
 -package:com.google.android.apps.maps
 -package:com.google.android.apps.photos
@@ -58,11 +65,15 @@
 -package:com.google.android.partnersetup
 -package:com.google.android.printservice.recommendation
 -package:com.google.android.projection.gearhead
+-package:com.google.android.inputmethod.pinyin
 -package:com.google.android.tag
 -package:com.google.android.tts
+-package:com.google.android.talk
 -package:com.google.android.videos
+-package:com.google.android.music
 -package:com.google.android.youtube
 -package:com.google.ar.core
+-package:com.google.android.feedback
 -package:com.heytap.datamigration
 -package:com.heytap.habit.analysis
 -package:com.heytap.openid
