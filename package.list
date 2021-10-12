@@ -77,7 +77,6 @@
 -package:com.oppo.bttestmode
 -package:com.oppo.criticallog
 -package:com.oppo.gmail.overlay
--package:com.oppo.lfeh
 -package:com.oppo.logkit
 -package:com.oppo.mimosiso
 -package:com.oppo.nw
