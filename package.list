@@ -86,8 +86,6 @@
 -package:com.oppo.sos
 -package:com.oppo.wifirf
 -package:com.oppo.quicksearchbox
--package:com.qualcomm.qti.modemtestmode
--package:com.qualcomm.qti.remoteSimlockAuth
 -package:com.qualcomm.uimremoteclient
 -package:com.qualcomm.uimremoteserver
 -package:com.nearme.statistics.rom
