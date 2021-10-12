@@ -77,7 +77,6 @@
 -package:com.heytap.datamigration
 -package:com.heytap.habit.analysis
 -package:com.heytap.openid
--package:com.heytap.usercenter
 -package:com.oppo.atlas
 -package:com.oppo.bttestmode
 -package:com.oppo.criticallog
@@ -99,6 +98,7 @@
 -package:com.tencent.soter.soterserver
 -package:com.joom
 -package:ru.yandex.searchplugin
+-package:com.yandex.browser
 -package:com.allgoritm.youla
 -package:com.baidu.searchbox
 -package:com.baidu.BaiduMap
@@ -130,6 +130,7 @@
 -package:com.coloros.wallet
 -package:com.qiyi.video
 -package:com.coloros.video
+-package:com.coloros.videoeditor
 -package:com.nearme.browser
 -package:com.coloros.assistantscreen
 -package:com.coloros.personalassistant
@@ -146,3 +147,5 @@
 -package:com.tencent.qqlive
 -package:com.chaozh.xincao.reader
 -package:com.coloros.accegamesdk
+-package:com.realmecomm.app
+-package:com.realme.link
