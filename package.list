@@ -38,9 +38,6 @@
 -package:com.coloros.sceneservice
 -package:com.coloros.smartdrive
 -package:com.coloros.soundrecorder
--package:com.coloros.weather2
--package:com.coloros.weather.service
--package:com.coloros.widget.smallweather
 -package:com.coloros.wifibackuprestore
 -package:com.dropboxchmod
 -package:com.dsi.ant.server
