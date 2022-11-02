@@ -3,7 +3,7 @@
 -package:com.android.calllogbackup
 -package:com.android.cellbroadcastreceiver
 -package:com.android.cellbroadcastreceiver.overlay.common
--package:com.android.email
+=package:com.android.email
 # -package:com.android.chrome
 -package:com.coloros.onekeylockscreen
 -package:com.android.printspooler
@@ -25,7 +25,7 @@
 -package:com.coloros.backuprestore.remoteservice
 -package:com.coloros.bootreg
 -package:com.coloros.childrenspace
--package:com.coloros.compass2
+=package:com.coloros.compass2
 -package:com.coloros.encryption
 -package:com.coloros.floatassistant
 -package:com.coloros.focusmode
