@@ -26,12 +26,12 @@
 -package:com.coloros.bootreg
 -package:com.coloros.childrenspace
 =package:com.coloros.compass2
--package:com.coloros.encryption
+# -package:com.coloros.encryption
 -package:com.coloros.floatassistant
 -package:com.coloros.focusmode
 -package:com.coloros.gamespace
 -package:com.coloros.gamespaceui
--package:com.coloros.oppomultiapp
+# -package:com.coloros.oppomultiapp
 -package:com.coloros.oshare
 -package:com.coloros.phonenoareainquire
 -package:com.coloros.sceneservice
@@ -94,7 +94,7 @@
 -package:com.oppo.rftoolkit
 -package:com.oppo.sos
 -package:com.oppo.wifirf
--package:com.oppo.quicksearchbox
+# -package:com.oppo.quicksearchbox
 -package:com.oppo.music
 -package:com.oppo.ohome
 -package:com.oppo.market
@@ -116,3 +116,5 @@
 -package:com.dropboxchmod
 -package:com.dsi.ant.server
 -package:com.caf.fmradio
+-package:com.redteamobile.roaming
+-package:com.redteamobile.roaming.deamon
